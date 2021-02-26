@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='ezgif.com-video-to-gif-5.gif' width=250 />
+<img src='ezgif.com-video-to-gif-7.gif' width=250 />
 
 **Twitter** is a basic twitter app to read your tweets.
 
