@@ -49,4 +49,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='ezgif.com-video-to-gif-4.gif' width=250 />
+<img src='ezgif.com-video-to-gif-6.gif' width=250 />
